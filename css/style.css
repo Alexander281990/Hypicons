@@ -299,7 +299,7 @@
 
 .section_2_galary {
     height: 879px;
-    background-image: url("/img/icon_product/galary.png");
+    background-image: url("https://github.com/Alexander281990/Hypicons/blob/master/img/phone.png");
     background-repeat: no-repeat;
     background-size: cover;
 }

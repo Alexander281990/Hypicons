@@ -260,7 +260,7 @@
   }
 
 .section_1_img {
-    background-image: url("/img/phone.png");
+    background-image: url("img/phone.png");
     background-size: cover;
     background-repeat: no-repeat;
     width: 500px;
